@@ -1,2 +1,2 @@
 # zacharyjpeter.github.io
-Portfolio website for dev projects
+My portfolio website for dev projects
