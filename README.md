@@ -1,8 +1,12 @@
-<h1>Portfolio Project</h1>
-This is my <a href="https://zacharyjpeter.github.io">website portfolio project</a>. You can follow the progress in <a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/journal.md"> my coding journal</a>.
-
-<h2>Project Goals</h2>
+<h1>My Portfolio</h1>
+View <a href="https://zacharyjpeter.github.io">my portfolio site</a> here. Follow <a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/journal.md"> my coding journal</a> here.
+<br>
+<h2>Current Projects</h2>
 <ol>
-  <li>Act as sandbox for new language skills</li>
-  <li>Act as a showcase for smaller projects</li>
+  <li>Colored Markers (CSS)</li>
+</ol>
+<h2>Finished Projects</h2>
+<ol>
+  <li><a href="https://github.com/Zacharyjpeter/coding-journal/tree/main/Cat%20Photo%20App">Cat Photo App (HTML)</li>
+  <li><a href="https://github.com/Zacharyjpeter/coding-journal/tree/main/Cafe%20Menu">Cafe Menu (CSS)</li>
 </ol>
