@@ -16,3 +16,6 @@ h1, h2, p {
    text-align: center;
    color: white;
 }
+.cardglow {
+   box-shadow: 0px 0px 20px 0px red;
+}
