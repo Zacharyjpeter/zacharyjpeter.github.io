@@ -11,3 +11,21 @@ h1, h2, p {
 .cardglow {
    box-shadow: 0px 0px 20px 0px red;
 }
+
+.headshot {
+   height: 10px;
+   width: 10px;
+   margin: 25px;
+}
+
+.bio {
+   margin: 50px 150px;
+}
+
+.project-gallery {
+
+}
+
+.contact-icons {
+
+}
