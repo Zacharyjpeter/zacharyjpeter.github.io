@@ -1,4 +1,7 @@
-
+/* big picture stuff */
+* {
+   box-sizing: border-box;
+}
 body {
    background-color: rgb(0, 0, 0);
    height: 100%;
@@ -8,24 +11,26 @@ h1, h2, p {
    text-align: center;
    color: white;
 }
+
+/* Controls style for project cards */
 .cardglow {
    box-shadow: 0px 0px 20px 0px red;
 }
 
-.headshot {
-   height: 10px;
-   width: 10px;
-   margin: 25px;
+/* Style seetings for header area */
+#tagline {
+   margin: 10px;
 }
 
-.bio {
+#headshot {
+   background-image: url('zachary-peterson.jpeg');
+   background-size: cover;
+   display: block;
+   height: 400px;
+   width: 400px;
+   margin: 10px auto 10px;
+}
+
+#bio {
    margin: 50px 150px;
-}
-
-.project-gallery {
-
-}
-
-.contact-icons {
-
 }
