@@ -1,12 +1,11 @@
-<h1>My Portfolio</h1>
-View <a href="https://zacharyjpeter.github.io">my portfolio site</a> here. Follow <a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/journal.md"> my coding journal</a> here.
+<h1>Zachary's Developer Site</h1>
+This repo hosts the code for my personal dev site. It acts a sandbox for new skills I've learned.
 <br>
-<h2>Current Projects</h2>
+<br>
+<a href="https://zacharyjpeter.github.io"><h3>View my website</h3></a>
+<br>
+<h3>Coming Soon</h3>
 <ol>
-  <li>Colored Markers (CSS)</li>
-</ol>
-<h2>Finished Projects</h2>
-<ol>
-  <li><a href="https://github.com/Zacharyjpeter/coding-journal/tree/main/Cat%20Photo%20App">Cat Photo App (HTML)</li>
-  <li><a href="https://github.com/Zacharyjpeter/coding-journal/tree/main/Cafe%20Menu">Cafe Menu (CSS)</li>
+  <li>Project links as a card gallery</li>
+  <li>Header section redesign</li>
 </ol>
