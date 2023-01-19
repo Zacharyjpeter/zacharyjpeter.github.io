@@ -1,73 +1,81 @@
 * {
-   box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 /* general styles */
 body {
-   background-color: rgb(5, 7, 29);
-   padding: 25px 25px;
-   font-size: 18px;
-   font-family: Avenir, Arial, Helvetica, sans-serif;
-   color: rgb(240, 240, 255);
+  background-color: rgb(5, 7, 29);
+  padding: 25px 25px;
+  font-size: 18px;
+  font-family: Avenir, Arial, Helvetica, sans-serif;
+  color: rgb(240, 240, 255);
 }
 
-h1, h2, p {
-   text-align: center;
+h1,
+h2,
+p {
+  text-align: center;
 }
 
 a {
-   color: rgb(3, 115, 255);
-   text-decoration: none;
+  color: rgb(3, 115, 255);
+  text-decoration: none;
 }
 
 a:hover {
-   color: rgb(240, 240, 255);
-   text-decoration: underline;
+  color: rgb(240, 240, 255);
+  text-decoration: underline;
 }
 
 /* Style for header area */
 #tagline {
-   margin: 10px;
+  margin: 10px;
 }
 
 #tagline p {
-   font-weight: bold;
+  font-weight: bold;
+}
+
+#headshot-container {
+  background-size: cover;
 }
 
 #headshot {
-   background-image: url('zachary-peterson.jpeg');
-   background-size: cover;
-   height: 325px;
-   width: 325px;
-   margin: 10px auto;
-   border-radius: 5px;
-   box-shadow: 15px 12px 250px rgb(96, 62, 96);
+  margin: 50px auto;
+  height: 100%;
+  width: 100%;
+  min-width: 325px;
+  min-height: 325px;
+  max-height: 500px;
+  max-width: 500px;
+  border-radius: 5px;
+  box-shadow: 15px 12px 250px rgb(96, 62, 96);
 }
 
 /* Style for paragraphs */
 #my-story {
-   margin: 50px 10vw;
-   line-height: 1.5em;
+  margin: 50px 10vw;
+  line-height: 1.5em;
 }
 
 /* Style for project area */
 #projects {
-   margin: 25px 0;
+  margin: 25px 0;
 }
 
 .cardglow {
-   box-shadow: 0px 0px 20px 0px red;
+  box-shadow: 0px 0px 20px 0px red;
 }
 
 /* Style for footer area */
 #contact-info {
-   border: 1px solid rgba(128, 128, 128, 0.25);
-   border-radius: 5px;
-   margin: 25px auto;
-   padding-bottom: 25px;
-   min-width: 40%;
-   max-width: 400px;
-   text-align: center;
-   font-weight: bold;
-   word-spacing: .5em;
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  border-radius: 5px;
+  margin: 25px auto;
+  padding-bottom: 25px;
+  min-width: 40%;
+  max-width: 400px;
+  text-align: center;
+  font-weight: bold;
+  word-spacing: 0.5em;
 }
