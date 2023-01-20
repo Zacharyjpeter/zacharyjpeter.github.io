@@ -48,6 +48,7 @@ a:hover {
   min-height: 325px;
   max-height: 500px;
   max-width: 500px;
+  display: block;
   border-radius: 5px;
   box-shadow: 15px 12px 250px rgb(96, 62, 96);
 }
